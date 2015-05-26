@@ -21,3 +21,9 @@
 移植CyanogenMod到新的设备上可能相当地简单，也可能相当地难。这将取决于设备本身，设备是否运行着一个较新的版本的安卓。当然，你作为一个开发者的技术，也很重要！
 
 如果你之前没有为其他的设备编译过CyanogenMod（以及recovery），移植工作会非常难的。所以如果你真的还没编译过个一次两次的，现在就赶紧[试试](/Build_for_jordan.md)吧。
+
+> 友情提示
+> --------
+
+> _如果你不是通过CyanogenMod Learning Center来到这个页面的,现在就可以去[Development](http://wiki.cyanogenmod.org/w/Development)获得更多信息_。
+
